@@ -1,12 +1,4 @@
-
-
-
-![Logo](https://i.imgur.com/VgJJ5ty.png)
-
-
-
-
-# Nativegames Unblocked Games 2.0
+# Bypass6 Games
 
 
 # Domains 
