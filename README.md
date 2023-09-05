@@ -2,10 +2,10 @@
 
 
 # Domains 
-silentsfun.github.io/home
-bypass6.github.io/home
-silentsfun.org
-bypass6.org
+# silentsfun.github.io/home
+# bypass6.github.io/home
+# silentsfun.org
+# bypass6.org
 # Deployment
 #### Bypass6 Games can be easily deployed on platforms like GitHub pages, Replit, and vercel.
 #
