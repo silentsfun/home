@@ -1,6 +1,6 @@
 /* Your CSS styles from before */
 body {
-  background-image: https://silentsfun.github.io/home/games/monkey-mart/monkeymartlogo.png;
+  background-image: url("https://silentsfun.github.io/home/games/monkey-mart/monkeymartlogo.png");
   font-family: Arial, sans-serif;
   margin: 0;
   display: flex;
